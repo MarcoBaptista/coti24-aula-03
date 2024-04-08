@@ -1,0 +1,26 @@
+# Arquivos temporários do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de compilação
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Arquivos gerados pela IDE
+.vs/
+*.vcxproj.filters
+*.VC.db
+*.opendb
+
+# Arquivos de backup
+*~ 
+*.swp
+*.tmp
+
+# Arquivos e pastas do sistema
+Thumbs.db
+.DS_Store
